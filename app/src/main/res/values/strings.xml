@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MusicRater</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="btnClapton">Play Eric Clapton</string>
+    <string name="btnJimi">Play Jimi Hendrix</string>
+    <string name="btnSRV">Play Stevie Ray Vaughn</string>
+    <string name="imgClapton">Image of Eric Clapton</string>
+    <string name="imgJimi">Image of Jimi Hendrix</string>
+    <string name="imgSRV">Image of Stevie Ray Vaughn</string>
+    <string name="imgSplash">Image of the Blues</string>
+    <string name="txtRate">Rate it! (1-3)</string>
+    <string name="btnSubmit">Submit Rating</string>
+</resources>
